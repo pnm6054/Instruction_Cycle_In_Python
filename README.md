@@ -12,7 +12,7 @@ ffe9 <br>
 0053 <br>
 -1 <br>
 -----------------------------
-
+![Alt text](/example/test_01.png)
 -----------------------------
 ## Test Input 2 <br>
 ORG 0 <br>
@@ -26,7 +26,7 @@ C, DEC 0 <br>
 END <br>
 
 -----------------------------
-
+![Alt text](/example/test_02.png)
 -----------------------------
 ## Test Input 3<br>
 ORG 100 <br>
@@ -40,3 +40,6 @@ MIN, DEC 83 <br>
 SUB, DEC -23 <br>
 DIF, HEX 0 <br>
 END <br>
+
+------------------------------
+![Alt text](/example/test_03.png)
